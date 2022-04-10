@@ -1,0 +1,166 @@
+
+.tit{
+    font-style: normal;
+    font-size: 2cm;
+    -webkit-text-stroke: 2px blue;
+    color:yellow; 
+    text-align: center;
+}
+
+.esr{
+    background-color:rgb(252, 252, 124);
+    color: black;
+    border-radius: 35%;
+    position: relative;
+    top: -430px;
+    left: 840px;
+    font-size: medium;
+    text-align: center;
+}
+
+.imb{
+    display: block;
+    margin: auto;
+    width: 80%;
+    height: 700px;
+}
+
+.imp{
+    position: relative;
+    top: -489px;
+    left: 780px;
+    width: 280px;
+    height: 180px;;
+}
+
+.btn{
+    font-size: 0.5cm;
+    font-style: italic;
+    width: 70px;
+    height: 70px;
+    background-color: blue;
+    color: antiquewhite;
+    border-radius: 50%;
+    position: relative;
+    top: -333px;
+    left: 778px;;
+}
+
+.fra{
+    color: wheat;
+    font-size: xx-large;
+    position: absolute;
+    top: 100px;
+    left: 540px;
+}
+
+.etn{
+    color: darkcyan;
+    font-size: large;
+    position: relative;
+    left: 240px;
+    top: -760px;
+}
+
+.ete{
+    color: darkcyan;
+    font-size: large;
+    position: relative;
+    left: 240px;
+    top: -780px;
+}
+
+.eth{
+    color: darkcyan;
+    font-size: large;
+    position: relative;
+    left: 240px;
+    top: -800px;
+    width: 150px;;
+    height: 60px;
+}
+
+.ets{
+    color: white;
+    font-size: x-small;
+    position: relative;
+    left: 200px;
+    top: -755px;
+    width: 600px;
+    height: 90px;
+    text-align: justify;
+}
+
+.ets2{
+    color: white;
+    font-size: smaller;
+    position: relative;
+    left: 190px;
+    top: -810px;
+    width: 600px;
+    height: 90px;
+    text-align: justify;
+}
+
+.li1{
+    color: yellow;
+    font-style: oblique;
+    font-size: x-large;
+    text-align:justify;
+    position: relative;
+    left: 100px;
+    top: -450px;
+}
+
+.li2{
+    color: yellow;
+    font-style: oblique;
+    font-size: x-large;
+    text-align:justify;
+    position: relative;
+    left: 170px;
+    top: -450px;
+
+}
+
+.li3{
+    color: yellow;
+    font-style: oblique;
+    font-size: x-large;
+    text-align:justify;
+    position: relative;
+    left: 240px;
+    top: -450px;
+
+}
+
+.li4{
+    color: yellow;
+    font-style: oblique;
+    font-size: x-large;
+    text-align:justify;
+    position: relative;
+    left: 310px;
+    top: -450px;
+
+}
+
+.li5{
+    color: yellow;
+    font-style: oblique;
+    font-size: x-large;
+    text-align:justify;
+    position: relative;
+    left: 380px;
+    top: -450px;
+
+}
+
+
+body{
+    background-color: red;
+    height: 500PX;
+    width: 1335px;
+}
+
+
